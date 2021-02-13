@@ -2,4 +2,4 @@
 
 ## JWT
 
-CodeIgniter 4 REST API with JWT i
+CodeIgniter 4 REST API with JWT
